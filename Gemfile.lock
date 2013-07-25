@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    ffaker-taxonomy (1.0.0)
+      ffaker
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    ffaker (1.16.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ffaker-taxonomy!
