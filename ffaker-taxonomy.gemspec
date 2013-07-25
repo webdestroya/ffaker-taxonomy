@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "ffaker-taxonomy"
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.authors     = ["Mitch Dempsey"]
   s.email       = ["mrdempsey@gmail.com"]
   s.homepage    = "https://github.com/webdestroya/ffaker-taxonomy"
